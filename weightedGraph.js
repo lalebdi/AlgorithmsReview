@@ -12,3 +12,4 @@ class weightedGraph{
         this.adjacencyList[vertex2].push({node: vertex1, weight})
     }
 }
+
