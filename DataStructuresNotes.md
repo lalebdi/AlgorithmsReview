@@ -64,5 +64,10 @@ BigO => insertion, deletion and access are O(1)
 - Breadth first graph traversal prioritizing visiting all the neighbors at a given deapth before moving downwards.
 
 
-=> Dijksta Algorithm: Finds the shortest path between two vertices on a graph. 
+=> Dijksta Algorithm: Finds the shortest path between two vertices on a graph. Requires a weighted graph.
+    = The Approach:
+        1. Every time we look to visit a new node, we pick the node with the smallest known distance to visit first.
+        2. Once we've moved to the node we're going to visit, we look at each of its neighbors.
+        3. For each neighboring node, we calculate the distance by summing the total edges that lead ti the node we're checking from the starting node.
+        4. If the new total distance to a node is less than the previous total, we store the new shorter distance for that node. 
 
