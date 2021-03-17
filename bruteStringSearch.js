@@ -24,6 +24,3 @@ console.log(y)
 console.log(z)
 
 
-
-
-// end of code
