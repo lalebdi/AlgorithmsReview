@@ -37,3 +37,6 @@ function mergeSort(arr){
     let right = mergeSort(arr.slice(mid));
     return merge(left, right)
 }
+
+
+// end of code
