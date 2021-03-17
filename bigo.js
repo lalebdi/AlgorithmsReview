@@ -54,5 +54,3 @@ function printAllPaires(n){ // O(n^2)
 printAllPaires(100)
 
 // 2 loops are better than nested loops
-
-// end of code
