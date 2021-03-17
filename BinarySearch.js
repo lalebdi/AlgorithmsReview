@@ -29,5 +29,3 @@ x = binarySearch(arr, 2)
 console.log(x)
 
 
-
-// end of code
