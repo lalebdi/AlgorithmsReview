@@ -40,4 +40,3 @@ console.log(a2)
 console.log(a3)
 console.log(a4)
 
-// end of code
