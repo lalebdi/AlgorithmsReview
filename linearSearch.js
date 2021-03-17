@@ -13,3 +13,5 @@ function linearSearch(arr, val){ // O(n)
 x = [10, 15, 20, 25, 30]
 y = linearSearch(x, 15)
 console.log(y)
+
+// end of code
