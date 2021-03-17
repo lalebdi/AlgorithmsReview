@@ -14,4 +14,3 @@ function compareByLen(str1, str2){
 
 
 
-// end of code
