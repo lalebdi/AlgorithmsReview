@@ -62,8 +62,8 @@ let a32 =  maxSubarraySum2([4,2,1,6], 1) // 6
 let a42 =  maxSubarraySum2([4,2,1,6,2], 4) // 13
 let a52 =  maxSubarraySum2([], 4) // null
 
-console.log(a12)
-console.log(a22)
-console.log(a32)
-console.log(a42)
-console.log(a52)
+// console.log(a12)
+// console.log(a22)
+// console.log(a32)
+// console.log(a42)
+// console.log(a52)
