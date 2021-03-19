@@ -59,4 +59,4 @@ function studentCount(arr){
 }
 
 st = studentCount(height)
-console.log(st)
+// console.log(st)
