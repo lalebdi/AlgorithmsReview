@@ -119,7 +119,7 @@ tree.insert(20)
 
 console.log(tree)
 
-console.log("the BFS", tree.BFS())
-console.log("the DFSPreOrder", tree.DFSPreOrder())
-console.log("the DFSPostOrder", tree.DFSPostOrder())
-console.log("the DFSInOrder", tree.DFSInOrder())
+// console.log("the BFS", tree.BFS())
+// console.log("the DFSPreOrder", tree.DFSPreOrder())
+// console.log("the DFSPostOrder", tree.DFSPostOrder())
+// console.log("the DFSInOrder", tree.DFSInOrder())
