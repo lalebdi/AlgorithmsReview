@@ -17,3 +17,4 @@ class PriorityQueue{
     }
 }
 
+// This is O(n * log(n)) -> because we are sorting everrytime we enqueue. Binary heap has better space complexity
