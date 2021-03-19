@@ -39,5 +39,5 @@ function quickSort(arr, left = 0, right = arr.length - 1){
 
 arr = [4, 6, 9, 1, 2, 5, 3]
 x = quickSort(arr)
-console.log(x)
+// console.log(x)
 
