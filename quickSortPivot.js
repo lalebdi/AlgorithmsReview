@@ -26,4 +26,4 @@ function pivot(arr, start= 0, end=arr.length+1){
 arr = [4, 8, 2, 1, 5, 7, 6, 3]
 
 x = pivot(arr)
-console.log(x)
+// console.log(x)
