@@ -30,4 +30,3 @@ function merge(arr1, arr2){
     return results;
 }
 
-// end of code
