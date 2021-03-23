@@ -76,3 +76,4 @@ BigO => insertion, deletion and access are O(1)
     B. Optimal Substructure: A problem is said to have optimal substructure if an optimal solution can be constructed from optimal solutions of its subproblems. 
 
 - Memoization: Storing the results of expensive function calls and and returning the cached results when the same inputs occur again. 
+- Tabulation: Storing the result of a previous result in a "table" (usually an array). Usually done using iteration. Better space complexity can be achieved using tabulation. 
