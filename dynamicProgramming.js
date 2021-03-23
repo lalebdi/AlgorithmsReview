@@ -9,7 +9,7 @@ console.log(fibonnaci(5))
 
 // The above is O(1.6^n)
 
-// Below is more optimal using memoization:
+// Below is more optimal using memoization: => O(n)
 
 
 function fib(n, memo=[]){
