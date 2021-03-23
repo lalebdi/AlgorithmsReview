@@ -74,3 +74,5 @@ BigO => insertion, deletion and access are O(1)
 - Dynamic Programming: A method for solving a complex problem by breaking it down into a collection of simpler subproblems, solving each of those subproblems just once, and storing their solutions. (think of it more like divide and conquer). It only works on problems with optimal substructure and overlapping subproblems. 
     A. Overlapping Subproblems: A problem is said to have overlapping subproblem if it can be broken down into subproblems which are reused several times. e.g. Fibonnaci numbers in recursion.
     B. Optimal Substructure: A problem is said to have optimal substructure if an optimal solution can be constructed from optimal solutions of its subproblems. 
+
+- Memoization: Storing the results of expensive function calls and and returning the cached results when the same inputs occur again. 
