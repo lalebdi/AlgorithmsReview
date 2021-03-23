@@ -71,4 +71,5 @@ BigO => insertion, deletion and access are O(1)
         3. For each neighboring node, we calculate the distance by summing the total edges that lead ti the node we're checking from the starting node.
         4. If the new total distance to a node is less than the previous total, we store the new shorter distance for that node. 
 
-- Dynamic Programming: A method for solving a complex problem by breaking it down into a collection of simpler subproblems, solving each of those subproblems just once, and storing their solutions. (think of it more like divide and conquer). 
+- Dynamic Programming: A method for solving a complex problem by breaking it down into a collection of simpler subproblems, solving each of those subproblems just once, and storing their solutions. (think of it more like divide and conquer). It only works on problems wuth optimal substructure and overlapping subproblems. 
+    A. Overlapping Subproblems: A problem is said to have overlapping subproblem if it can be broken down into subproblems which are reused several times. e.g. Fibonnaci numbers in recursion.
