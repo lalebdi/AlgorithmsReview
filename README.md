@@ -15,3 +15,9 @@ Explore examples with invalid inputs.
 3- Break It Down: AKA Pseudo-code Write the steps you will take.
 
 4- Solve or Simplify: Simplify infers solving a simpler problem =>
+
+Find the core of the difficulty in what you're trying to do.
+Temporarily ignore that difficulty.
+Write a simplified solution.
+Then incorporate that difficulty back in.
+
